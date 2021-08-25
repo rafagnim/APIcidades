@@ -1,4 +1,4 @@
-<h2>Sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
+<h2>Sistema de consulta de cidades em API REST com Spring Boot</h2>
 
 Este  API foi desenvolvido em aula proporcionada pela Digital Innovation One, através do desenvolvedor André Gomes.
 
