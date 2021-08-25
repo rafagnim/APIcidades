@@ -26,7 +26,7 @@ O desenvolvimento desta API trouxe vários desafios e aprendizado, aprimorando o
 
 Pré-requisitos para a execução do projeto:
 
-* Java 11 ou versões superiores.
-* Gradle 
-* Intellj IDEA Community Edition ou outra IDE.
-* Postgre instalado ou no Docker e rodando no localhost
+* Java 11 ou versões superiores;
+* Gradle;
+* Intellj IDEA Community Edition ou outra IDE;
+* Postgre instalado ou no Docker e rodando no localhost.
